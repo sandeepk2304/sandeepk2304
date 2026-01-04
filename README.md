@@ -1,24 +1,24 @@
 ## Hi, I’m Sandeep Kumar Sharma 👋
 
-Senior Software Engineer & Full-Stack Web Developer with **10+ years of experience** building scalable web applications.
+Tech Lead–oriented Senior Software Engineer focused on **engineering leadership**, **system architecture**, and **delivery ownership** in remote and distributed teams.
 
-### What I Do
-- Full-Stack Web Development  
-- Backend APIs (Node.js, PHP)  
-- SaaS & Startup MVPs  
-- Website Performance & Optimization  
-- Cloud Deployment (AWS)
+### Leadership & Impact
+- Technical ownership of backend and platform architecture  
+- Leading features from requirements to production  
+- Mentoring engineers through code reviews and best practices  
+- Driving engineering standards, performance, and reliability  
+- Partnering closely with product, design, and business teams
 
-### Tech Stack
-- **Backend:** Node.js, Express, NestJS, PHP, Laravel  
-- **Frontend:** React.js, Next.js, JavaScript  
-- **Database:** MySQL, PostgreSQL, MongoDB  
+### Technical Expertise
+- **Backend:** Node.js, NestJS, PHP, Laravel  
+- **Frontend:** React.js, Next.js  
 - **Cloud:** AWS  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Architecture:** REST APIs, scalable system design, clean architecture  
 - **Tools:** Git, Linux, Docker
 
-### Currently Focused On
-- Node.js & Cloud (AWS)  
-- Freelancing & Consulting  
-- Building scalable products
-
-💼 **Open to freelance & consulting work**
+### Current Focus
+- Tech Lead / Engineering Manager–aligned roles  
+- Designing and scaling backend systems  
+- Enabling high-performing remote teams  
+- Balancing hands-on development with leadership responsibilities
