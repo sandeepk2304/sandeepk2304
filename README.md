@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I’m Sandeep Kumar Sharma 👋
 
-<!--
-**sandeepk2304/sandeepk2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer & Full-Stack Web Developer with **10+ years of experience** building scalable web applications.
 
-Here are some ideas to get you started:
+### What I Do
+- Full-Stack Web Development  
+- Backend APIs (Node.js, PHP)  
+- SaaS & Startup MVPs  
+- Website Performance & Optimization  
+- Cloud Deployment (AWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- **Backend:** Node.js, Express, NestJS, PHP, Laravel  
+- **Frontend:** React.js, Next.js, JavaScript  
+- **Database:** MySQL, PostgreSQL, MongoDB  
+- **Cloud:** AWS  
+- **Tools:** Git, Linux, Docker
+
+### Currently Focused On
+- Node.js & Cloud (AWS)  
+- Freelancing & Consulting  
+- Building scalable products
+
+💼 **Open to freelance & consulting work**
