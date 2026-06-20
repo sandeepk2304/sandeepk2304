@@ -18,6 +18,16 @@ Currently open to **remote roles**, **freelance projects**, and **consulting eng
 
 ---
 
+### 🚀 Featured Work
+
+A look at how I build — clean architecture, production patterns, real attention to detail.
+
+**[MetoAdmin](https://github.com/sandeepk2304/metoadmin)** — A full-featured admin dashboard built with React 19, TypeScript, and TanStack Query. Auth flows, sortable data tables, bulk actions, charts, drill-down detail views — the kind of back-office tooling every SaaS or e-commerce product eventually needs, built clean enough to extend.
+
+*(More projects coming — this section grows as I ship.)*
+
+---
+
 ### 🔧 Where I'm Strongest
 
 - **Backend & Architecture** — NestJS, Node.js, PHP (Laravel, Yii2), Python
