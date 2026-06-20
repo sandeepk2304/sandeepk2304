@@ -1,55 +1,47 @@
-## Hi, I'm Sandeep Kumar Sharma 👋
+## Hi, I'm Sandeep Kumar 👋
 
-Senior Full Stack Engineer and Tech Lead with 10+ years 
-of experience designing and building scalable web systems 
-for high-traffic platforms serving millions of users.
+I'm a Senior Full Stack Engineer and Tech Lead with 10+ years building backend systems and platforms that hold up under real traffic — not demo traffic. I've spent most of my career in the gap between "it works on my machine" and "it works at 2am during a traffic spike," and I'd rather be there than anywhere else.
 
-I help engineering teams ship faster, scale smarter, and 
-build systems that last — as a **Tech Lead**, 
-**Engineering Manager**, or **Technical Consultant**.
+I work best as a **Tech Lead**, **Engineering Manager**, or **Technical Consultant** — someone teams bring in when the architecture needs to be right, not just shipped.
 
-Available for **remote roles**, **freelance projects**, 
-and **consulting engagements** worldwide.
+Currently open to **remote roles**, **freelance projects**, and **consulting engagements**, worldwide.
 
 ---
 
-### 🏗️ What I Do
+### 🏗️ What I Actually Do
 
-- Own backend and platform architecture end-to-end
-- Lead engineering teams from requirements to production
-- Consult on system design, architecture decisions, 
-  and technical strategy
-- Mentor engineers on clean architecture, best practices, 
-  and delivery ownership
-- Drive engineering standards, performance, and reliability
-- Bridge the gap between business goals and 
-  engineering execution
+- **Architecture ownership** — I take a system from whiteboard to production and stay accountable for it after launch, not just at handoff
+- **Technical leadership** — I lead engineers through ambiguous requirements without losing delivery velocity
+- **Consulting** — system design reviews, architecture audits, and technical strategy for teams that need an outside read on a hard decision
+- **Mentorship** — I work with engineers on judgment, not just syntax: when to add complexity, when to resist it, how to own a delivery end to end
+- **Standards and reliability** — performance, monitoring, and the boring infrastructure work that prevents the exciting 2am pages
 
 ---
 
-### 🔧 Tech Stack
+### 🔧 Where I'm Strongest
 
-| Layer | Technologies |
-|---|---|
-| **Backend** | NestJS · Node.js · PHP · Laravel · Yii2 · Python |
-| **Frontend** | Next.js 15 · React 19 · Tailwind CSS |
-| **Databases** | PostgreSQL · MySQL · MongoDB · Redis |
-| **Search** | ElasticSearch · Apache Solr |
-| **Cloud** | AWS — EC2 · S3 · RDS · CloudFront |
-| **Tools** | Docker · Prisma · Jest · Git · Linux |
+- **Backend & Architecture** — NestJS, Node.js, PHP (Laravel, Yii2), Python
+- **Frontend** — Next.js 15, React 19, Tailwind CSS
+- **Data layer** — PostgreSQL, MySQL, MongoDB, Redis
+- **Search** — ElasticSearch, Apache Solr
+- **Infra** — AWS (EC2, S3, RDS, CloudFront), Docker
+
+Tools I use daily: Prisma, Jest, Git, Linux.
 
 ---
 
 ### 💼 Open To
 
-- 🌍 Remote **Tech Lead** / **Engineering Manager** roles
-- 🤝 **Freelance** — Full Stack, Backend, API Development
-- 🧠 **Consulting** — System Design, Architecture Review, 
-  Technical Strategy
+- 🌍 **Tech Lead / Engineering Manager** roles, remote
+- 🤝 **Freelance** — full stack, backend, API design and development
+- 🧠 **Consulting** — system design, architecture review, technical strategy
+
+If you're a team that already knows what's wrong but not how to fix it, that's usually where I'm most useful.
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Talk
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sandeepk2304-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sandeepk2304/)
-📍 Jaipur, India · Open to Remote Roles Worldwide
+
+📍 Based in Jaipur, India · Working with teams worldwide
