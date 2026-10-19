@@ -1,57 +1,47 @@
 ## Hi, I'm Sandeep Kumar 👋
 
-I'm a Senior Full Stack Engineer and Tech Lead with 10+ years building backend systems and platforms that hold up under real traffic — not demo traffic. I've spent most of my career in the gap between "it works on my machine" and "it works at 2am during a traffic spike," and I'd rather be there than anywhere else.
+I'm a full-stack engineer with ten years on platforms where performance is the product — the kind where a slow page costs real traffic, not demo traffic. Most of my career has been spent in the gap between "it works on my machine" and "it works at 2am during a traffic spike."
 
-I work best as a **Tech Lead**, **Engineering Manager**, or **Technical Consultant** — someone teams bring in when the architecture needs to be right, not just shipped.
+My day job is high-traffic web applications on PHP, MySQL and Redis, where pages have to be fast, correctly indexed and cheap to serve. I work across the stack: server-rendered React front ends, Node.js services, and the content systems behind them. Lately that includes AI features on LLM APIs with typed, validated output.
 
-Currently open to **remote roles**, **freelance projects**, and **consulting engagements**, worldwide.
-
----
-
-### 🏗️ What I Actually Do
-
-- **Architecture ownership** — I take a system from whiteboard to production and stay accountable for it after launch, not just at handoff
-- **Technical leadership** — I lead engineers through ambiguous requirements without losing delivery velocity
-- **Consulting** — system design reviews, architecture audits, and technical strategy for teams that need an outside read on a hard decision
-- **Mentorship** — I work with engineers on judgment, not just syntax: when to add complexity, when to resist it, how to own a delivery end to end
-- **Standards and reliability** — performance, monitoring, and the boring infrastructure work that prevents the exciting 2am pages
+Everything I learn the hard way ends up on my blog: what broke, what I measured, what fixed it.
 
 ---
 
-### 🚀 Featured Work
+### ✍️ Recent writing
 
-A look at how I build — clean architecture, production patterns, real attention to detail.
+- [Shrinking a 14 GiB Redis cache to 1.6 GiB, no downtime](https://www.hisandeep.com/blog/redis-cache-compression-9x) — transparent zlib compression in the serializer, and a rollout you can undo with one env var
+- [Next.js App Router caching, finally explained](https://www.hisandeep.com/blog/nextjs-app-router-caching-finally-explained) — the four caches, and which one is serving you stale data
+- [Semantic search with pgvector — do you even need Pinecone?](https://www.hisandeep.com/blog/semantic-search-pgvector-do-you-need-pinecone)
+- [Building a technical SEO crawler that thinks like Googlebot](https://www.hisandeep.com/blog/building-a-googlebot-style-seo-crawler)
+- [llms.txt & GEO: getting your site cited by ChatGPT & Perplexity](https://www.hisandeep.com/blog/llms-txt-geo-get-cited-by-chatgpt-perplexity)
 
-**[MetoAdmin](https://github.com/sandeepk2304/metoadmin)** — A full-featured admin dashboard built with React 19, TypeScript, and TanStack Query. Auth flows, sortable data tables, bulk actions, charts, drill-down detail views — the kind of back-office tooling every SaaS or e-commerce product eventually needs, built clean enough to extend.
-
-*(More projects coming — this section grows as I ship.)*
-
----
-
-### 🔧 Where I'm Strongest
-
-- **Backend & Architecture** — NestJS, Node.js, PHP (Laravel, Yii2), Python
-- **Frontend** — Next.js 15, React 19, Tailwind CSS
-- **Data layer** — PostgreSQL, MySQL, MongoDB, Redis
-- **Search** — ElasticSearch, Apache Solr
-- **Infra** — AWS (EC2, S3, RDS, CloudFront), Docker
-
-Tools I use daily: Prisma, Jest, Git, Linux.
+All of it: **[hisandeep.com/blog](https://www.hisandeep.com/blog)**
 
 ---
 
-### 💼 Open To
+### 🏗️ What I work on
 
-- 🌍 **Tech Lead / Engineering Manager** roles, remote
-- 🤝 **Freelance** — full stack, backend, API design and development
-- 🧠 **Consulting** — system design, architecture review, technical strategy
-
-If you're a team that already knows what's wrong but not how to fix it, that's usually where I'm most useful.
+- **Performance at scale** — caching, query and payload work, measured before and after rather than guessed
+- **Technical SEO** — crawlability, canonicals, structured data and Core Web Vitals as engineering problems, built in from the first commit
+- **AI in production** — LLM API work with typed, validated output: structured extraction and classification that holds up outside a demo
 
 ---
 
-### 📫 Let's Talk
+### 🔧 Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sandeepk2304-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sandeepk2304/)
+- **Backend** — PHP (Yii2, Laravel), Node.js, NestJS, Express
+- **Frontend** — Next.js 16, React 19, TypeScript, Tailwind CSS 4
+- **Data** — MySQL / MariaDB, PostgreSQL, MongoDB, Redis
+- **Search** — Elasticsearch, Apache Solr, pgvector
+- **Infra** — AWS (EC2, S3, RDS, CloudFront), Docker, Nginx
 
-📍 Based in Jaipur, India · Working with teams worldwide
+---
+
+### 📌 Featured
+
+**[MetoAdmin](https://github.com/sandeepk2304/metoadmin)** — a production-ready React 19 admin dashboard: roles and permissions, sortable data tables, bulk actions, charts and drill-down views. The back-office tooling every SaaS eventually needs, built clean enough to extend.
+
+---
+
+🌐 [hisandeep.com](https://www.hisandeep.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sandeepk2304) · ✉️ hello@hisandeep.com
