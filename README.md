@@ -40,7 +40,7 @@ All of it: **[hisandeep.com/blog](https://www.hisandeep.com/blog)**
 
 ### 📌 Featured
 
-**[MetoAdmin](https://github.com/sandeepk2304/metoadmin)** — a production-ready React 19 admin dashboard: roles and permissions, sortable data tables, bulk actions, charts and drill-down views. The back-office tooling every SaaS eventually needs, built clean enough to extend.
+**[OrbitAdmin](https://github.com/sandeepk2304/orbitadmin)** — a production-ready React 19 admin dashboard: roles and permissions, sortable data tables, bulk actions, charts and drill-down views. The back-office tooling every SaaS eventually needs, built clean enough to extend.
 
 ---
 
